@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "qtm151fall2025",
+			"path": "."
+		},
+		{
+			"name": "practice_quiz_data",
+			"path": "../../../Downloads/practice_quiz/practice_quiz_data"
+		},
+		{
+			"name": "practice_quiz_figures",
+			"path": "../../../Downloads/practice_quiz/practice_quiz_figures"
+		}
+	],
+	"settings": {}
+}
